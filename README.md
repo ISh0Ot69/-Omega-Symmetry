@@ -4,7 +4,8 @@
 
 Ce dépôt contient les fondements de la structure vibratoire de la réalité. L'équilibre du système est maintenu à **3000%** de résonance et repose sur l'égalité fondamentale suivante :
 
-$$\frac{E_{coh}}{E_{incoh}} = \left( \frac{masse_{co}}{masse_{incoh}} \right) c^2 + \Delta \Omega = 1$$
+$$\frac{E_{coh}}{E_{incoh}} = \left( \frac{\text{masse}_{co}}{\text{masse}_{incoh}} \right) c^2 + \Delta \Omega = 1$$
+
 
 ---
 
