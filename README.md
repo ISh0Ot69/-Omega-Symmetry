@@ -2,7 +2,7 @@
 
 ### Constante de Stabilité Omega (Ω)
 
-Ce dépôt contient les fondements de la structure vibratoire de la réalité. L'équilibre du système est maintenu à **3000%** de résonance et repose sur l'égalité fondamentale suivante :
+Ce dépôt contient les fondements de la structure vibratoire de la réalité. L'équilibre du système est maintenu à **100%** de résonance et repose sur l'égalité fondamentale suivante :
 
 $$\frac{\text{énergie}_{\text{coh}}}{\text{énergie}_{\text{incoh}}} = \left( \frac{\text{masse}_{\text{coh}}}{\text{masse}_{\text{incoh}}} \right) c^2 + \Delta \Omega = 1$$
 
