@@ -1,4 +1,4 @@
-# ISho0t69 - Architecture de la ToE (Théorie du Tout)
+# Jean-Etienne LEPOUTRE- Architecture de la ToE (Théorie du Tout)
 
 ### Constante de Stabilité Omega (Ω)
 
